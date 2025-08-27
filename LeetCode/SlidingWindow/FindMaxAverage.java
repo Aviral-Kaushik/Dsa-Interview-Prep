@@ -1,6 +1,6 @@
 package LeetCode.SlidingWindow;
 
-public class FindMaxAverageI {
+public class FindMaxAverage {
 
     /**
      * Time Complexity: O(n)
